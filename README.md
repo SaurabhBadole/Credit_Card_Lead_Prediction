@@ -6,3 +6,6 @@ Happy Customer Bank is a mid-sized private bank that deals in all kinds of banki
 
 ### Approach :
 I have used Random forest model and logistics regression for classification. I have used Grid Search method for hyperparameter tuning and RFE method for feature selection. To handle imbalance in data, I have used SMOTE technique.
+
+### Hackathon Score : 0.6819
+### Hackathon Rank : 1943 / 8141
